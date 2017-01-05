@@ -1,0 +1,3 @@
+export const RECEIVE_ITEMS = 'REVEIVE_ITEMS'
+export const SWITCH_ITEM = 'SWITCH_ITEM'
+export const RECEIVE_ROUTER = 'RECEIVE_ROUTER'
